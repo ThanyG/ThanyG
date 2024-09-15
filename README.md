@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThanyG
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning all that is front-end HTML5, CSS, Javascript, DOM, Vue.js. and continue learning until I achieve my goal and be full stack
+- 🌱 I’m currently learning all that is front-end HTML5, CSS, Javascript, DOM,typeScript Vue.js. and continue learning until I achieve my goal and be full stack
 - 📫 contact: thaniazorrilla@gmail.com
 
 <!---
