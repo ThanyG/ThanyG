@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThanyG
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning all that is front-end HTML5, CSS, Javascript, DOM,JSX react. and continue learning until I achieve my goal and be full stack
-- 📫 contact: thaniazorrilla@gmail.com
+- 📫 contact: thaniagonzalez223@gmail.com
 
 <!---
 ThanyG/ThanyG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
